@@ -1,0 +1,1 @@
+On crée une fonction calc qui prend deux opérandes et le type d'opérations à effectuer. Les opérations supportées sont l'addition et la soustraction 
